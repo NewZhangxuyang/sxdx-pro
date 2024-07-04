@@ -5,12 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ruoyi</groupId>
-    <artifactId>ruoyi</artifactId>
+    <artifactId>sxdx-pro</artifactId>
     <version>3.6.4</version>
 
-    <name>ruoyi</name>
-    <url>http://www.ruoyi.vip</url>
-    <description>若依微服务系统</description>
+    <name>sxdx-pro</name>
+    <description>项目服务系统</description>
 
     <properties>
         <ruoyi.version>3.6.4</ruoyi.version>
